@@ -1,7 +1,7 @@
 // define a function also declear it, taks parameters which have a type and a name
 // when you call a function, the arguments you supply might be converted to the parameters the function takes
 // compiler will warn about that
-
+// early name was C with class (C++)
 
 #include <iostream>
 
